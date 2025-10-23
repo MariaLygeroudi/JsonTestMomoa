@@ -23,7 +23,7 @@
 				"acqTheme": "mint",
 				"allowLocal": true,
 				"allowRefund": true,
-				"allowKeyEntry": false,
+				"allowKeyEntry": true,
 				"allowMoto": true,
 				"allowIris": true
 			},
@@ -34,16 +34,16 @@
 				"allowRefund": true,
 				"allowKeyEntry": true,
 				"allowMoto": true,
-				"allowIris": false
+				"allowIris": true
 			},
 			{
 				"acqIndetifier": "011",
 				"acqName": "NBG",
 				"allowLocal": true,
 				"allowRefund": true,
-				"allowKeyEntry": false,
-				"allowMoto": false,
-				"allowIris": false
+				"allowKeyEntry": true,
+				"allowMoto": true,
+				"allowIris": true
 			},
 			{
 				"acqIndetifier": "887",
@@ -52,7 +52,7 @@
 				"allowRefund": true,
 				"allowKeyEntry": true,
 				"allowMoto": true,
-				"allowIris": false
+				"allowIris": true
 			},
 			{
 				"acqIndetifier": "017",
@@ -61,7 +61,7 @@
 				"allowRefund": true,
 				"allowKeyEntry": true,
 				"allowMoto": true,
-				"allowIris": false
+				"allowIris": true
 			},
 			{
 				"acqIndetifier": "016",
@@ -70,7 +70,7 @@
 				"allowRefund": true,
 				"allowKeyEntry": true,
 				"allowMoto": true,
-				"allowIris": false
+				"allowIris": true
 			}
 		]
 	},
