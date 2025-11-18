@@ -20,7 +20,7 @@
 			{
 				"acqIndetifier": "014",
 				"acqName": "ALPHA BANK",
-				"acqTheme": "mint",
+				"acqTheme": "unattended_possible",
 				"allowLocal": true,
 				"allowRefund": true,
 				"allowKeyEntry": true,
