@@ -25,7 +25,7 @@
 				"allowRefund": true,
 				"allowKeyEntry": true,
 				"allowMoto": true,
-				"allowIris": true
+				"allowIris": false
 			},
 			{
 				"acqIndetifier": "026",
@@ -43,7 +43,7 @@
 				"allowRefund": true,
 				"allowKeyEntry": true,
 				"allowMoto": true,
-				"allowIris": true
+				"allowIris": false
 			},
 			{
 				"acqIndetifier": "887",
@@ -52,7 +52,7 @@
 				"allowRefund": true,
 				"allowKeyEntry": true,
 				"allowMoto": true,
-				"allowIris": true
+				"allowIris": false
 			},
 			{
 				"acqIndetifier": "017",
@@ -61,7 +61,7 @@
 				"allowRefund": true,
 				"allowKeyEntry": true,
 				"allowMoto": true,
-				"allowIris": true
+				"allowIris": false
 			},
 			{
 				"acqIndetifier": "016",
@@ -70,7 +70,7 @@
 				"allowRefund": true,
 				"allowKeyEntry": true,
 				"allowMoto": true,
-				"allowIris": true
+				"allowIris": false
 			}
 		]
 	},
